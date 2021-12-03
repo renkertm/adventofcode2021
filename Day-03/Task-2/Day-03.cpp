@@ -21,7 +21,6 @@ int main()
 	if (file.is_open()) {
 		while (getline(file, line)) {
 			input.push_back(line);
-			//std::cout << line << "\n";
 		}
 		file.close();
 	}
@@ -87,11 +86,9 @@ int main()
 	if (file.is_open()) {
 		while (getline(file, line)) {
 			input.push_back(line);
-			//std::cout << line << "\n";
 		}
 		file.close();
 	}
-	//ox = static_cast<float>(bits) / s < 0.5;
 	else std::cout << "Unable to open file";
 	pinput = input;
 	while (true) {
