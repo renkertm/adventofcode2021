@@ -1,0 +1,7 @@
+{
+    "name": "aoc-day04-task1",
+    "version": "1.0.0",
+    "dependencies": {
+        "my-dependency": "^1.0.1"
+    }
+}
