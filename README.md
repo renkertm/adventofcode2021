@@ -6,3 +6,4 @@ My solutions for [Advent of Code](https://adventofcode.com/)
 1. Python
 2. JavaScript
 3. C++ (why tf am i doing this)
+4. TypeScript
